@@ -1,0 +1,7 @@
+env3/
+__pycache__/
+data/
+config.txt
+testcookie.py
+.vscode/
+*.log
